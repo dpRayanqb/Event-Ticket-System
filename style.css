@@ -1,0 +1,26 @@
+.navbar{
+    width: 100%;
+    background: #34495e;
+    color: #ecf0f1;   
+}
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+a,a:hover{
+    text-decoration: none;
+    color: #ecf0f1;
+}
+
+div > p {
+  margin-top:12px;
+  font-size:50px;
+}
+
+.alert{
+    border-left: 4px solid #c0392b;
+    background: #f4dfdd;
+    padding: 1%;
+    color: #c0392b;
+    width: 100%;
+}
